@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<atlas version="1.0">L_
+  <header>
+    <name>CerebrA</name>
+    <type>Label</type>
+    <images>
+      <imagefile>/CerebrA/mni_icbm152_CerebrA_tal_nlin_sym_09c.nii</imagefile>
+      <summaryimagefile>/CerebrA/mni_icbm152_CerebrA_tal_nlin_sym_09c.nii</summaryimagefile>
+    </images>
+    </header>
+  <data>
+<label index="0" x="0" y="0" z="0">*.*.*.*.*</label>
+<label index="1" x="134.537393" y="174.747907" z="95.671051">R_Rostral Middle Frontal</label>
+<label index="2" x="98.875215" y="62.382530" z="55.755594">R_Vermal lobules VI-VII</label>
+<label index="3" x="145.206176" y="107.227934" z="48.020464">R_Inferior temporal</label>
+<label index="4" x="104.985533" y="143.802893" z="70.741410">R_Accumbens Area</label>
+<label index="5" x="127.649669" y="115.162417" z="61.801700">R_Inferior Lateral Ventricle</label>
+<label index="6" x="107.376143" y="49.656064" z="84.176740">R_Pericalcarine</label>
+<label index="7" x="118.612618" y="168.000532" z="58.853145">R_Lateral Orbitofrontal</label>
+<label index="8" x="101.415971" y="168.235125" z="80.165188">R_Rostral Anterior Cingulate</label>
+<label index="9" x="121.866446" y="70.069829" z="130.404593">R_Superior Parietal</label>
+<label index="10" x="141.848774" y="67.565111" z="109.719850">R_Inferior Parietal</label>
+<label index="11" x="102.119965" y="100.582770" z="41.712908">R_Brainstem</label>
+<label index="12" x="109.530578" y="62.649814" z="72.860459">R_Lingual</label>
+<label index="13" x="138.989722" y="106.967956" z="124.681708">R_Postcentral</label>
+<label index="14" x="141.664718" y="112.189692" z="86.259299">R_Transverse Temporal</label>
+<label index="15" x="101.338023" y="169.689892" z="59.942143">R_Medial Orbitofrontal</label>
+<label index="16" x="103.665089" y="105.467589" z="137.712673">R_Paracentral</label>
+<label index="17" x="103.098830" y="135.258778" z="58.418726">R_Optic Chiasm</label>
+<label index="18" x="119.745199" y="100.865583" z="60.560931">R_Parahippocampal</label>
+<label index="19" x="119.391515" y="127.558788" z="57.335152">R_Amygdala</label>
+<label index="20" x="98.830218" y="70.948598" z="40.225857">R_Vermal lobules VIII-X</label>
+<label index="21" x="121.522789" y="134.577573" z="78.243888">R_Putamen</label>
+<label index="22" x="144.564544" y="163.758419" z="82.704246">R_Pars Triangularis</label>
+<label index="23" x="133.139376" y="133.767356" z="78.428106">R_Insula</label>
+<label index="24" x="131.698040" y="89.853474" z="56.609189">R_Fusiform</label>
+<label index="25" x="103.088542" y="136.036458" z="66.119792">R_Basal Forebrain</label>
+<label index="26" x="106.336337" y="115.230505" z="67.687418">R_Ventral Diencephalon</label>
+<label index="27" x="114.676661" y="129.673133" z="76.068195">R_Pallidum</label>
+<label index="28" x="153.250044" y="100.419391" z="66.706090">R_Middle Temporal</label>
+<label index="29" x="96.860909" y="119.088182" z="77.497273">R_Third Ventricle</label>
+<label index="30" x="101.139102" y="152.705367" z="105.414841">R_Caudal Anterior Cingulate</label>
+<label index="31" x="105.069945" y="72.996111" z="117.657202">R_Precuneus</label>
+<label index="32" x="143.783918" y="146.884530" z="91.106477">R_Pars Opercularis</label>
+<label index="33" x="104.030495" y="86.214818" z="96.895189">R_Isthmus Cingulate</label>
+<label index="34" x="127.912001" y="44.835796" z="79.538913">R_Lateral Occipital</label>
+<label index="35" x="138.757070" y="124.704716" z="119.736923">R_Precentral</label>
+<label index="36" x="118.223089" y="127.473323" z="46.128861">R_Entorhinal</label>
+<label index="37" x="98.670984" y="88.107513" z="47.205959">R_Fourth Ventricle</label>
+<label index="38" x="109.235654" y="165.820216" z="115.365323">R_Superior Frontal</label>
+<label index="39" x="114.649665" y="79.957381" z="41.783599">R_Cerebellum White Matter</label>
+<label index="40" x="107.736900" y="113.896394" z="84.749851">R_Thalamus</label>
+<label index="41" x="110.682236" y="114.161338" z="92.170219">R_Lateral Ventricle</label>
+<label index="42" x="132.937368" y="144.264902" z="125.660136">R_Caudal Middle Frontal</label>
+<label index="43" x="104.602948" y="50.697721" z="102.579782">R_Cuneus</label>
+<label index="44" x="139.079143" y="166.034900" z="65.225886">R_Pars Orbitalis</label>
+<label index="45" x="147.062996" y="123.911167" z="69.402785">R_Superior Temporal</label>
+<label index="46" x="122.814612" y="68.733774" z="39.198122">R_Cerebellum Gray Matter</label>
+<label index="47" x="101.407134" y="112.226391" z="116.585844">R_Posterior Cingulate</label>
+<label index="48" x="121.888155" y="109.502769" z="63.522156">R_Hippocampus</label>
+<label index="49" x="109.922027" y="141.582314" z="88.430090">R_Caudate</label>
+<label index="50" x="99.790222" y="78.628000" z="64.163333">R_Vermal lobules I-V</label>
+<label index="51" x="151.151188" y="96.852180" z="113.981788">R_Supramarginal</label>
+<label index="52" x="57.462607" y="174.747907" z="95.671051">L_Rostral Middle Frontal</label>
+<label index="53" x="92.525221" y="62.407176" z="55.879875">L_Vermal lobules VI-VII</label>
+<label index="54" x="46.793824" y="107.227934" z="48.020464">L_Inferior temporal</label>
+<label index="55" x="87.014467" y="143.802893" z="70.741410">L_Accumbens Area</label>
+<label index="56" x="64.350331" y="115.162417" z="61.801700">L_Inferior Lateral Ventricle</label>
+<label index="57" x="84.623857" y="49.656064" z="84.176740">L_Pericalcarine</label>
+<label index="58" x="73.387382" y="168.000532" z="58.853145">L_Lateral Orbitofrontal</label>
+<label index="59" x="90.512427" y="168.305130" z="80.318879">L_Rostral Anterior Cingulate</label>
+<label index="60" x="70.133554" y="70.069829" z="130.404593">L_Superior Parietal</label>
+<label index="61" x="50.151226" y="67.565111" z="109.719850">L_Inferior Parietal</label>
+<label index="62" x="89.323711" y="100.544714" z="41.738709">L_Brainstem</label>
+<label index="63" x="82.466138" y="62.651590" z="72.858565">L_Lingual</label>
+<label index="64" x="53.010278" y="106.967956" z="124.681708">L_Postcentral</label>
+<label index="65" x="50.335282" y="112.189692" z="86.259299">L_Transverse Temporal</label>
+<label index="66" x="90.588886" y="169.787084" z="59.961319">L_Medial Orbitofrontal</label>
+<label index="67" x="88.334911" y="105.467589" z="137.712673">L_Paracentral</label>
+<label index="68" x="88.864052" y="135.304575" z="58.403922">L_Optic Chiasm</label>
+<label index="69" x="72.254801" y="100.865583" z="60.560931">L_Parahippocampal</label>
+<label index="70" x="72.608485" y="127.558788" z="57.335152">L_Amygdala</label>
+<label index="71" x="92.570080" y="70.797074" z="40.501180">L_Vermal lobules VIII-X</label>
+<label index="72" x="70.477211" y="134.577573" z="78.243888">L_Putamen</label>
+<label index="73" x="47.435456" y="163.758419" z="82.704246">L_Pars Triangularis</label>
+<label index="74" x="58.860624" y="133.767356" z="78.428106">L_Insula</label>
+<label index="75" x="60.301960" y="89.853474" z="56.609189">L_Fusiform</label>
+<label index="76" x="88.911458" y="136.036458" z="66.119792">L_Basal Forebrain</label>
+<label index="77" x="85.660275" y="115.233366" z="67.685513">L_Ventral Diencephalon</label>
+<label index="78" x="77.323339" y="129.673133" z="76.068195">L_Pallidum</label>
+<label index="79" x="38.749956" y="100.419391" z="66.706090">L_Middle Temporal</label>
+<label index="80" x="94.455139" y="118.223491" z="77.791191">L_Third Ventricle</label>
+<label index="81" x="90.860898" y="152.705367" z="105.414841">L_Caudal Anterior Cingulate</label>
+<label index="82" x="86.929572" y="72.996910" z="117.657184">L_Precuneus</label>
+<label index="83" x="48.216082" y="146.884530" z="91.106477">L_Pars Opercularis</label>
+<label index="84" x="87.969505" y="86.214818" z="96.895189">L_Isthmus Cingulate</label>
+<label index="85" x="64.087999" y="44.835796" z="79.538913">L_Lateral Occipital</label>
+<label index="86" x="53.242930" y="124.704716" z="119.736923">L_Precentral</label>
+<label index="87" x="73.776911" y="127.473323" z="46.128861">L_Entorhinal</label>
+<label index="88" x="92.630719" y="87.529412" z="46.470588">L_Fourth Ventricle</label>
+<label index="89" x="82.764346" y="165.820216" z="115.365323">L_Superior Frontal</label>
+<label index="90" x="77.348900" y="79.955762" z="41.784428">L_Cerebellum White Matter</label>
+<label index="91" x="84.261931" y="113.895188" z="84.750324">L_Thalamus</label>
+<label index="92" x="81.317764" y="114.161338" z="92.170219">L_Lateral Ventricle</label>
+<label index="93" x="59.062632" y="144.264902" z="125.660136">L_Caudal Middle Frontal</label>
+<label index="94" x="87.390652" y="50.693280" z="102.584552">L_Cuneus</label>
+<label index="95" x="52.920857" y="166.034900" z="65.225886">L_Pars Orbitalis</label>
+<label index="96" x="44.937004" y="123.911167" z="69.402785">L_Superior Temporal</label>
+<label index="97" x="69.185388" y="68.733774" z="39.198122">L_Cerebellum Gray Matter</label>
+<label index="98" x="90.481705" y="112.129008" z="116.597699">L_Posterior Cingulate</label>
+<label index="99" x="70.111845" y="109.502769" z="63.522156">L_Hippocampus</label>
+<label index="100" x="82.077973" y="141.582314" z="88.430090">L_Caudate</label>
+<label index="101" x="91.696190" y="78.656321" z="64.045168">L_Vermal lobules I-V</label>
+<label index="102" x="40.848812" y="96.852180" z="113.981788">L_Supramarginal</label>
+  </data>
+</atlas>
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
